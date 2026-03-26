@@ -1,5 +1,0 @@
-In this task, I explored both coding and digital collaboration platforms, which helped me understand their importance in academics and skill development. I completed a coding problem on HackerRank, where I applied my knowledge of programming concepts in C++. This activity improved my logical thinking, problem-solving ability, and confidence in writing code. It also gave me a better understanding of how coding platforms help students practice and enhance their technical skills.
-
-Additionally, I created a Digital Literacy Quiz using Google Forms. This helped me learn how to design interactive quizzes and use digital tools for assessment purposes. I included multiple-choice questions related to online safety and basic digital knowledge.
-
-Overall, this task was very useful as it introduced me to platforms that support both learning and evaluation. It also showed me how technology can be used effectively for academic growth and collaboration.
