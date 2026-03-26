@@ -1,7 +1,7 @@
 # Digital-literacy-portfolio
 
 Student Information
-Name: Sai Laxmi  
+Name: Sailaxmi Palai  
 Course:Int. M.tTech (Data Science)  
 
 Project Summary
@@ -24,6 +24,7 @@ Updated and polished my GitHub, LinkedIn, and Kaggle profiles to establish a sol
 
 Task 3: Coding & Collaboration Platforms
 Completed a coding challenge using HackerRank and created a Digital Literacy Quiz using Google Forms to understand interactive learning platforms.
+Google form link:https://docs.google.com/forms/d/e/1FAIpQLScg36jl27FsdaXOrKZoCr5A9PQa15QXWUAp_gtckmdttDexpw/viewform?usp=publish-editor
 
 Task 4: Professional Email & Etiquette
 Developed proper email communication and created a social media etiquette checklist to fine-tune my digital communication skills.
