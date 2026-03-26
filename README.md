@@ -2,7 +2,7 @@
 
 Student Information
 Name: Sailaxmi Palai  
-Course:Int. M.tTech (Data Science)  
+Course: Int. M.tTech (Data Science)  
 
 Project Summary
 This portfolio demonstrates my understanding of basic digital literacy concepts and how I apply them. It consists of safe and responsible usage of technology, developing a credible digital presence, and fine-tuning my digital communication skills.
